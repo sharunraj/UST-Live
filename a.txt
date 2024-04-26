@@ -1,0 +1,2 @@
+Simple Text File
+this is new content
